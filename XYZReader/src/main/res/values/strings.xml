@@ -9,4 +9,8 @@
 
     <string name="up">Up</string>
 
+    <string name="title">Article Title</string>
+    <string name="byline">Article ByLine</string>
+    <string name="body">Article Body</string>
+
 </resources>
